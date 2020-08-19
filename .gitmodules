@@ -1,0 +1,6 @@
+[submodule "DeepDanbooru"]
+	path = DeepDanbooru
+	url = https://github.com/KichangKim/DeepDanbooru.git
+[submodule "stylegan2"]
+	path = stylegan2
+	url = https://github.com/NVlabs/stylegan2

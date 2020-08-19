@@ -1,0 +1,1 @@
+put stylegan2 anime face model here
