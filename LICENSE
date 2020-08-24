@@ -19,3 +19,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+This repository links to two submodules: Stylegan 2 and DeepDanbooru.
+The Stylegan2 code is (c) NVidia and is distributed under the Nvidia Source 
+Code License-NC, while the DeepDanbooru code is (c) Kichang Kim and
+distributed under the MIT license. Please see the appropriate repositories
+for details.
+
+---
+
+This repository contains code that downloads pre-trained machine learning
+model weights. The weights for the Stylegan 2 model are (c) Skyli0n and Gwern
+and are provided under the Creative Commons Zero license. The weights for 
+the DeepDanbooru model are (c) Kichang Kim and are provided under the MIT
+license.
